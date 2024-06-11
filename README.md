@@ -5,7 +5,7 @@
   <body>
     <h1> About Me: </h1>
     <h2>I Am A Computer Applications Student...</h2>
-<h2> Coding Only For Fun </h2>
+<h2> Coding Only For Fun...</h2>
     <h2>Amateur In :-</h2>
     <ul>
       <li>HTML</li>
