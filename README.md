@@ -7,6 +7,7 @@
     <h2>I Am A Computer Applications Student...</h2>
 <h2> Coding Only For Fun...</h2>
     <h2>Amateur In :-</h2>
+<h3>
     <ul>
       <li>HTML</li>
       <li>CSS</li>
@@ -15,6 +16,7 @@
       <li>C</li>
       <li>C++</li>
     </ul>
+</h3>
     <h2>Currently Learning Java...</h2>
     <h2>Specialized in HTML And CSS...</h2>
   </body>
