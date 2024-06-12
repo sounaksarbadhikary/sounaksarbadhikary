@@ -10,10 +10,15 @@
 <h3>
     <ul>
       <li>HTML</li>
+<br>
       <li>CSS</li>
+<br>
       <li>JavaScript</li>
+<br>
       <li>Java</li>
+<br>
       <li>C</li>
+<br>
       <li>C++</li>
     </ul>
 </h3>
