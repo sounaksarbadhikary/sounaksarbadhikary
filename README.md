@@ -17,7 +17,6 @@
     </ul>
     <h2>Currently Learning Java...</h2>
     <h2>Specialized in HTML And CSS...</h2>
-Ask More About Me At -<a>sounaksarbadhikary@gmail.com</a>
   </body>
 </html>
 
