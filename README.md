@@ -25,7 +25,8 @@
 </h3>
     <h2>Currently Learning Java...</h2>
     <h2>Specialized in HTML And CSS...</h2>
-<<br>
+<br>
+<h2>Profile Views:</h2>
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=sounaksarbadhikary&label=123&color=1&icon=0&pretty=false" />
 </a>
