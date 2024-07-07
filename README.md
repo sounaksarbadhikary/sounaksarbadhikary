@@ -28,7 +28,7 @@
 <br>
 <h2>Profile Views:</h2>
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=sounaksarbadhikary&label=123&color=1&icon=0&pretty=false" />
+  <img src="https://visitcount.itsvg.in/api?id=sounaksarbadhikary&label=156&color=1&icon=0&pretty=false" />
 </a>
   </body>
 </html>
