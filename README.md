@@ -30,7 +30,6 @@
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=sounaksarbadhikary&label=156&color=1&icon=0&pretty=false" />
 </a>
-https://readme-typing-svg.demolab.com/demo/?size=25&pause=9680&color=3BC0F7&lines=Hi+I+Am+Sounak;A+Computer+Applications+Student;Coding+Only+For+Fun;Experienced+Webpage+Designer
   </body>
 </html>
 
