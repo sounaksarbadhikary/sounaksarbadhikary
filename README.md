@@ -31,6 +31,8 @@
   <img src="https://visitcount.itsvg.in/api?id=sounaksarbadhikary&label=156&color=1&icon=0&pretty=false" />
 </a>
   </body>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=9680&color=3BC0F7&width=435&lines=Hi+I+Am+Sounak;A+Computer+Applications+Student;Coding+Only+For+Fun;Experienced+Webpage+Designer" alt="Typing SVG" /></a>
 </html>
 
 <!---
