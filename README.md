@@ -31,7 +31,6 @@
 </a>
 <br>
 <h2>Famous Quote:</h2>
-<br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=F73F22&width=538&height=150&lines=%22Any+One+Can+Write+A+Program+That+The+Computer+Understands%2C;But+A+Good+Programmer+Writes+A+Code+That+A+Human+Understands%22%22" alt="Typing SVG" /></a>
   </body>
 </html>
