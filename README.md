@@ -9,7 +9,7 @@
     <h2>Amateur In :-</h2>
 <h3>
     <ul>
-      <li><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F77A38&width=435&lines=HTML" alt="Typing SVG" /></a></li>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F77A38&width=435&lines=HTML" alt="Typing SVG" /></a>
 <br>
       <li>CSS</li>
 <br>
