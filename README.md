@@ -5,7 +5,7 @@
   </head>
   <body>
     <h1> About Me 📇: </h1>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=968&color=3BC0F7&width=435&lines=Hi+I+Am+Sounak;A+Computer+Applications+Student;Coding+Only+For+Fun;Experienced+Webpage+Designer" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=968&color=3BC0F7&width=435&lines=Hi+I+Am+Sounak+Sarbadhikary;A+Computer+Applications+Student;Coding+Only+For+Fun;Experienced+Webpage+Designer" alt="Typing SVG" /></a>
     <h2>Amateur In :-</h2>
 <h3>
     <ul>
